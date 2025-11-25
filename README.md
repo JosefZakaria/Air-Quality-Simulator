@@ -13,7 +13,7 @@ Map-based graphical interface
 
 Easy-to-run standalone Java application
 
-**Technologies **
+**Technologies**
 
 Java
 
